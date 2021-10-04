@@ -1,3 +1,4 @@
 body {
-  background: linear-gradient(to right top, navy, blue);
+  background-image: linear-gradient(to left, cyan, skyblue);
+  color: white;
 }
